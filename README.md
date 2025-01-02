@@ -1,5 +1,4 @@
 # PyGA-EP
 <h2>Aplicações da Geometria Analítica na Engenharia de Produção</h2>
 
-Este repositório foi criado como produto educacional do projeto de monitoria da disciplina Geometria Analítica, tendo como base o repositório [PyGA](https://github.com/Allan-Luka/PyGA/) do Allan Luka.
-O repositório PyGA introduz os conceitos da Geometria Analítica em Python, enquanto o PyGA-EP utiliza esses conceitos nas diversas áreas da Engenharia de Produção.
+Este produto educacional constitui um dos resultados do projeto Ações em prol das disciplinas de Geometria Analítica e Álgebra Linear, executado entre 08/2024 e 12/2024 com o apoio da PROGRAD/UFAL, por meio do Edital PROGRAD Nº 15/2024, sob a supervisão do Prof. Dr. Marcelo Pires.
