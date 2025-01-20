@@ -7,7 +7,7 @@
    
 |      **Área da Engenharia de Produção**       |   **Capítulos**  | **Forma de representação**          |
 |:---------------------------------------------:|:----------------:|-------------------------------------|
-| Projetos de Fábrica e Instalações Industriais |      Vetores     |        Computacional/Gráfica        |
+| Projetos de Fábrica e Instalações Industriais |      Vetores     |               Gráfica               |
 |             Logística Empresarial             |      Vetores     |               Gráfica               |
 |       Modelagem, Simulação e Otimização       |    Distâncias    | Matemática, Computacional e Gráfica |
 |                   Ergonomia                   | Produto Vetorial | Matemática, Computacional e Gráfica |
