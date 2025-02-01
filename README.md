@@ -1,13 +1,17 @@
 # PyGA-EP
 ![PyGA-EP.png](PyGA-EP.png)
 
+# O que fazer neste repositório?
+
+https://github.com/user-attachments/assets/09c91789-3298-4f27-9c12-9c46ae70ce04
+
 # Geometria Analítica e Python na Engenharia de Produção
 
  <div align="center">
    
 |      **Área da Engenharia de Produção**      |          **Capítulos**          | **Forma de representação**          |                                                            **Tutorial**                                                            |   
 |:--------------------------------------------:|:-------------------------------:|-------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------:|
-| Projetos de Fábrica e Instalações Industriai | Vetores (Tratamento Geométrico) |               Gráfica               | [Projeto de Fábrica e Instalações Industriais](https://drive.google.com/file/d/1hEEjhyuLr_eFD5qRwcC0oPmhofXOSMuo/view?usp=sharing) |  
+| Projetos de Fábrica e Instalações Industriais | Vetores (Tratamento Geométrico) |               Gráfica               | [Projeto de Fábrica e Instalações Industriais](https://drive.google.com/file/d/1hEEjhyuLr_eFD5qRwcC0oPmhofXOSMuo/view?usp=sharing) |  
 |             Logística Empresarial            |  Vetores (Tratamento Algébrico) |               Gráfica               |             [Logística Empresarial](https://drive.google.com/file/d/1Wj7p4TQrzygTt13jWKjGLvwmKD3vQyav/view?usp=sharing)            |   
 |       Modelagem, Simulação e Otimização      |            Distâncias           | Matemática, Computacional e Gráfica |       [Modelagem, Simulação e Otimização](https://drive.google.com/file/d/1Wj7p4TQrzygTt13jWKjGLvwmKD3vQyav/view?usp=sharing)      |   
 |                   Ergonomia                  |         Produto Vetorial        | Matemática, Computacional e Gráfica |                                                                                                                                    |   
