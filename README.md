@@ -1,10 +1,6 @@
 # PyGA-EP
 ![PyGA-EP.png](PyGA-EP.png)
 
-# O que fazer neste repositório?
-
-https://github.com/user-attachments/assets/09c91789-3298-4f27-9c12-9c46ae70ce04
-
 # Geometria Analítica e Python na Engenharia de Produção
 
  <div align="center">
